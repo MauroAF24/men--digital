@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:rgb(129, 96, 96);
+    margin: 0;
+    padding: 20px;
+    font-family: 'Noto Sans Thin', sans-serif; 
+    color: white
+}
+@font-face{
+    src: url('./font/Noto_Sans/NotoSans-VariableFont_wdth,wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+    text-align: center;
+    font-size: 2.5em;
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+img{
+
+    width: 200px;
+    height: 200px;
+}
+
